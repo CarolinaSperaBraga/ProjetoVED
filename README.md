@@ -8,8 +8,8 @@ Este projeto foi desenvolvido para a disciplina SME0803 - Visualização e Explo
 
 Autores:
 
-# *Carolina Spera Braga
-# *João Paulo van Tol Amaral Guerra
+-Carolina Spera Braga
+-João Paulo van Tol Amaral Guerra
 
 Todos os dados foram coletados do site Our World in Data.
 

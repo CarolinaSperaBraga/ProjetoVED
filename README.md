@@ -11,7 +11,7 @@ Autores:
     -Carolina Spera Braga 
     -João Paulo van Tol Amaral Guerra
 
-Todos os dados foram coletados do site Our World in Data.
+Todos os dados foram coletados do site (https://ourworldindata.org)[Our World in Data].
 
 Descrição das variáveis:
 

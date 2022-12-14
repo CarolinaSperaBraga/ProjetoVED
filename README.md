@@ -6,11 +6,6 @@ Projeto de Visualização e Exploração de Dados
 
 Este projeto foi desenvolvido para a disciplina SME0803 - Visualização e Exploração de Dados, do ICMC - Instituto De Ciências Matemáticas e de Computação da USP- Universidade de São Paulo, ministrada pela docente Cibele Maria Russo Novelli.
 
-Autores:
-
-* **Carolina Spera Braga** 
-* **João Paulo van Tol Amaral Guerra**
-
 Todos os dados foram coletados do site [Our World in Data](https://ourworldindata.org).
 
 Descrição das variáveis:
